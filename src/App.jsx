@@ -7,7 +7,6 @@ const navLinks = [
   { id: 'resume', label: 'Resume' },
   { id: 'contact', label: 'Contact' }
 ];
-
 const Header = () => {
   const [open, setOpen] = useState(false);
   return (
