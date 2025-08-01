@@ -34,7 +34,7 @@ const Section = ({ id, children }) => (
 const Intro = () => (
   <Section id="intro">
     <div className="hero-content">
-      <img src="/Jay_nobackground_2.jpg" alt="Jayesh Rao" className="profile-pic" />
+      <img src="Jay_nobackground_2.jpg" alt="Jayesh Rao" className="profile-pic" />
       <h1>Kalla Jayesh Rao</h1>
       <p>Web Developer | ML Enthusiast | Data Explorer</p>
     </div>
